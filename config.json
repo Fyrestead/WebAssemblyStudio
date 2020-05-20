@@ -1,6 +1,6 @@
 {
   "serviceUrl": "//wasmexplorer-service.herokuapp.com/service.php",
-  "clang": "//webassembly-studio-clang.herokuapp.com/build",
+  "clang": "http://xerxes:8083/build",
   "rustc": "//webassembly-studio-rust.herokuapp.com/rustc",
   "cargo": "//webassembly-studio-rust.herokuapp.com/cargo",
   "templates": {
